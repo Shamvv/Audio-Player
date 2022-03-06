@@ -11,7 +11,7 @@ window.geometry("560x630")
 
 
 #Adding title label
-window.title("Music Player")
+window.title("Audio Player")
 title1=PhotoImage(file='C:\\title.png')
 
 
