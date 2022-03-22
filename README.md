@@ -1,5 +1,6 @@
 # Audio Player
 Audio player capable of playing, pausing, forwarding, rewinding and looping audio while also being able to adjust playback volume.
+Made using Python, using it's libraries, tkinter and pygame.
 
 ![image](https://user-images.githubusercontent.com/88976526/156918147-473e02ae-8889-4a26-bbe9-45f2134b9633.png)
 
